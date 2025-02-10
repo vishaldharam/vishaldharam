@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Vishal Dharam</h1>  
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
-![](./Section 1.png)
+![](./social-banner.png)
 
 💻 Passionate about building scalable and efficient web applications.  
 📍 Based in Bangalore | Currently at **Bezt Labs**  
