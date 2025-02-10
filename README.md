@@ -40,21 +40,6 @@
 
 ---
 
-## 💼 Work Experience
-
-### 🔹 **Bezt Labs** | Full Stack Developer (Oct 2024 - Present | Bangalore)
-- Built scalable APIs using TypeScript, NestJS & Node.js.  
-- Designed and optimized database schemas with PostgreSQL & PrismaORM.  
-- Developed responsive UI for web and mobile apps using Next.js.  
-- Implemented SSR & SSG for improved performance and SEO.  
-
-### 🔹 **Origin Software Solutions** | Full Stack Intern (Sep 2023 - Sep 2024 | Kopargaon)
-- Developed and maintained MERN stack applications.  
-- Migrated state management to Redux for better scalability.  
-- Integrated Redis caching to optimize backend performance.  
-- Worked in Agile teams, contributing to code reviews and sprint planning.  
-
----
 
 ## 🚀 Projects
 
